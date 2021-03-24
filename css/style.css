@@ -234,3 +234,18 @@ header h1 {
 }
 footer {
     width: 90%;
+}
+.footer-row {
+    padding: 30px 0;
+
+}
+.footer-list {
+    display: inline;
+    margin: 0 20px;
+}
+.footer-list a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
