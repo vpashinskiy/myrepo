@@ -231,5 +231,6 @@ header h1 {
     color: red;
     font-size: 18px;
     font-weight: bold;
-
 }
+footer {
+    width: 90%;
